@@ -1,5 +1,5 @@
 # jemdoc: addcss{jemdoc.css}, showsource
-# jemdoc: addcss{set_middle.css}
+# jemdoc: addcss{set_middle.css}, showsource
 # jemdoc: nofooter
 = Chen BAI
 
