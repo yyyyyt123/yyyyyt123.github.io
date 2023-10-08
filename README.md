@@ -1,3 +1,3 @@
-# baichen's website
+# YANG Yitao's website
 
-* baichen318@gmail.com
+* ytyang@cse.cuhk.edu.hk
